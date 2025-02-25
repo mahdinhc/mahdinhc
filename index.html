@@ -63,7 +63,7 @@
         // Fetch GitHub Repositories
         async function fetchGitHubRepos() {
             try {
-                const response = await fetch('https://api.github.com/users/mahdin-hc/repos');
+                const response = await fetch('https://api.github.com/users/mahdinhc/repos');
                 const repos = await response.json();
                 
                 const reposContainer = document.getElementById('github-repos');
