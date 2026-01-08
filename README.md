@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahdin-hc
+- 👋 Hi, I’m @mahdinhc
 - 👀 I’m interested in cli-tools nowadays 
 - 😄 Pronouns: Mahdin Hasan
 - 🌀 Links: 
